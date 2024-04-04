@@ -4,4 +4,5 @@
 
 ### Tools
 1 Azure : storeg acount - azure data factory - azure data Lake Gen2
+
 2 power bi
